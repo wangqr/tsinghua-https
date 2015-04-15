@@ -1,0 +1,19 @@
+<ruleset name="Tsinghua">
+  <target host="academic.tsinghua.edu.cn" />
+  <target host="cic.tsinghua.edu.cn" />
+  <target host="*.cic.tsinghua.edu.cn" />
+  <target host="www.dangjian.tsinghua.edu.cn" />
+  <target host="www.hall.tsinghua.edu.cn" />
+  <target host="hq.tsinghua.edu.cn" />
+  <target host="info.tsinghua.edu.cn" />
+  <target host="learn.tsinghua.edu.cn" />
+  <target host="m.tsinghua.edu.cn" />
+  <target host="mails.tsinghua.edu.cn" />
+  <target host="portal.tsinghua.edu.cn" />
+  <target host="rsc.tsinghua.edu.cn" />
+  <target host="sslvpn.tsinghua.edu.cn" />
+  <target host="usereg.tsinghua.edu.cn" />
+
+  <rule from="^http://(.+)\.tsinghua\.edu\.cn/"
+          to="https://$1.tsinghua.edu.cn/"/>
+</ruleset>
