@@ -8,10 +8,12 @@
   <target host="info.tsinghua.edu.cn" />
   <target host="learn.tsinghua.edu.cn" />
   <target host="m.tsinghua.edu.cn" />
+  <target host="mail.tsinghua.edu.cn" />
   <target host="mails.tsinghua.edu.cn" />
   <target host="portal.tsinghua.edu.cn" />
   <target host="rsc.tsinghua.edu.cn" />
   <target host="sslvpn.tsinghua.edu.cn" />
+  <target host="shetuan.student.tsinghua.edu.cn" />
   <target host="usereg.tsinghua.edu.cn" />
   <exclusion pattern="learn.cic.tsinghua.edu.cn" />
 
