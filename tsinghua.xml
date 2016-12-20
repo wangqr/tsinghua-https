@@ -19,6 +19,7 @@
   <target host="shetuan.student.tsinghua.edu.cn" />
   <target host="*.tuna.tsinghua.edu.cn" />
   <target host="usereg.tsinghua.edu.cn" />
+  <exclusion pattern="learn.cic.tsinghua.edu.cn" />
 
   <rule from="^http://(.+)\.tsinghua\.edu\.cn/"
           to="https://$1.tsinghua.edu.cn/"/>
