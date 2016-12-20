@@ -6,11 +6,21 @@
 
 注意：
 
-* 有大量\*.\*.tsinghua.edu.cn的网站使用\*.tsinghua.edu.cn的证书造成证书警告，需手动添加例外。
-* 新版网络学堂(learn.cic.tsinghua.edu.cn)目前支持https但存在功能缺失，故暂时将其排除在该表外。
-
-网络学堂和部分网站存在混合内容的问题，可以配合使用以下Greasemonkey脚本解决：（Tampermonkey暂未适配）
-[Upgrade Insecure Requests](https://gist.github.com/wangqr/1dd12bdb798369d50bb93adcd2f1c964)
+* 启用后请依次访问一遍以下网站并添加永久例外：
+  * https://grjycx.cic.tsinghua.edu.cn
+  * https://jdbsc.cic.tsinghua.edu.cn
+  * https://jwcbg.cic.tsinghua.edu.cn
+  * https://kyybgxx.cic.tsinghua.edu.cn
+  * https://learn.cic.tsinghua.edu.cn
+  * https://life.cic.tsinghua.edu.cn
+  * https://meta.cic.tsinghua.edu.cn
+  * https://sykxxfb.cic.tsinghua.edu.cn
+  * https://xyybg.cic.tsinghua.edu.cn
+  * https://zhjw.cic.tsinghua.edu.cn
+  * https://shetuan.student.tsinghua.edu.cn
+* 网络学堂和部分网站存在混合内容的问题，请先安装Greasemonkey插件，然后使用以下脚本：
+  * [Upgrade Insecure Requests](https://github.com/wangqr/dummy/raw/master/csp.user.js)
+  * [HTTPS fix for learn.cic@THU](https://github.com/wangqr/dummy/raw/master/learnfix.user.js)
 
 # Chrome用户
 
