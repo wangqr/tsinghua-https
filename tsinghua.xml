@@ -17,6 +17,7 @@
   <target host="rsc.tsinghua.edu.cn" />
   <target host="sslvpn.tsinghua.edu.cn" />
   <target host="shetuan.student.tsinghua.edu.cn" />
+  <target host="tuna.tsinghua.edu.cn" />
   <target host="*.tuna.tsinghua.edu.cn" />
   <target host="usereg.tsinghua.edu.cn" />
 

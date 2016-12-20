@@ -17,6 +17,8 @@
   * https://sykxxfb.cic.tsinghua.edu.cn
   * https://xyybg.cic.tsinghua.edu.cn
   * https://zhjw.cic.tsinghua.edu.cn
+  * https://www.dangjian.tsinghua.edu.cn
+  * https://www.hall.tsinghua.edu.cn
   * https://shetuan.student.tsinghua.edu.cn
 * 网络学堂和部分网站存在混合内容的问题，请先安装Greasemonkey插件，然后使用以下脚本：
   * [Upgrade Insecure Requests](https://github.com/wangqr/dummy/raw/master/csp.user.js)
