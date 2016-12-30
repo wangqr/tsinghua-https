@@ -7,6 +7,8 @@
 注意：
 
 * 启用后请依次访问一遍以下网站并添加永久例外：
+  * https://announce.cic.tsinghua.edu.cn
+  * https://bmxxfb.cic.tsinghua.edu.cn
   * https://grjycx.cic.tsinghua.edu.cn
   * https://jdbsc.cic.tsinghua.edu.cn
   * https://jwcbg.cic.tsinghua.edu.cn
