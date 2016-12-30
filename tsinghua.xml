@@ -12,6 +12,7 @@
   <target host="mail.tsinghua.edu.cn" />
   <target host="mails.tsinghua.edu.cn" />
   <target host="net.tsinghua.edu.cn" />
+  <target host="news-quest.tsinghua.edu.cn" />
   <target host="portal.tsinghua.edu.cn" />
   <target host="postinfo.tsinghua.edu.cn" />
   <target host="rsc.tsinghua.edu.cn" />

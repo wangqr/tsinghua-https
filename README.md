@@ -41,6 +41,7 @@ m.tsinghua.edu.cn
 mail.tsinghua.edu.cn
 mails.tsinghua.edu.cn
 net.tsinghua.edu.cn
+news-quest.tsinghua.edu.cn
 postinfo.tsinghua.edu.cn
 rsc.tsinghua.edu.cn
 tuna.tsinghua.edu.cn (可勾选"Include subdomains for STS")
