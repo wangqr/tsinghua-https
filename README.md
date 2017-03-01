@@ -9,6 +9,8 @@
 * 启用后请依次访问一遍以下网站并添加永久例外：
   * https://announce.cic.tsinghua.edu.cn
   * https://bmxxfb.cic.tsinghua.edu.cn
+  * https://fdcglc.cic.tsinghua.edu.cn
+  * https://gjcbg.cic.tsinghua.edu.cn
   * https://grjycx.cic.tsinghua.edu.cn
   * https://jdbsc.cic.tsinghua.edu.cn
   * https://jwcbg.cic.tsinghua.edu.cn
@@ -17,8 +19,11 @@
   * https://life.cic.tsinghua.edu.cn
   * https://meta.cic.tsinghua.edu.cn
   * https://sykxxfb.cic.tsinghua.edu.cn
+  * https://xxbg.cic.tsinghua.edu.cn
   * https://xyybg.cic.tsinghua.edu.cn
+  * https://yjsy.cic.tsinghua.edu.cn
   * https://zhjw.cic.tsinghua.edu.cn
+  * https://zhxxfw.cic.tsinghua.edu.cn
   * https://www.dangjian.tsinghua.edu.cn
   * https://www.hall.tsinghua.edu.cn
   * https://shetuan.student.tsinghua.edu.cn
