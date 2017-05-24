@@ -14,6 +14,7 @@
   * https://grjycx.cic.tsinghua.edu.cn
   * https://jdbsc.cic.tsinghua.edu.cn
   * https://jwcbg.cic.tsinghua.edu.cn
+  * https://kywjdc.cic.tsinghua.edu.cn
   * https://kyybgxx.cic.tsinghua.edu.cn
   * https://learn.cic.tsinghua.edu.cn
   * https://life.cic.tsinghua.edu.cn
